@@ -1,7 +1,7 @@
 <h1> Sistema de vendas! </h1>
 Sistema de vendas com inclusão de PDV.
 <h3>Principais caracteristicas</h3>
--> Padrão MVC.
+-> Padrão MVC.<br>
 ->Cadastro de usuarios, clientes, produtos, forma de pagamento e vendas<br>
 <h3>Tecnologias utilizadas</h3>
 -> JAVA 17 <br>
